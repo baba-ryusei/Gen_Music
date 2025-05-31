@@ -1,1 +1,1 @@
-## Generation Music by LSTM based AutoEncoder model.
+## Generation Music by AutoEncoder based LSTM model.
